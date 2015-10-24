@@ -26,8 +26,7 @@ language = {
 	'letter_c' : [
 	"http://images2.pics4learning.com/catalog/c/c.jpg",
 	"http://www.wpclipart.com/sign_language/American_ABC_Photos/sign_language_photo_C.png",
-	"http://s233.photobucket.com/user/lintpicker/media/30801_9184.jpg.html",
-	"http://cache4.asset-cache.net/gc/183832619-letter-c-in-american-sign-language-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=D%2FnZ6gUG3WDSAxVZepD%2B5K%2FCl07V0keNbxZ9m9eyybw%2FdCupRTeXFpg2opd8kbeG",
+"http://cache4.asset-cache.net/gc/183832619-letter-c-in-american-sign-language-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=D%2FnZ6gUG3WDSAxVZepD%2B5K%2FCl07V0keNbxZ9m9eyybw%2FdCupRTeXFpg2opd8kbeG",
 	"http://cloud.graphicleftovers.com/14731/79830/sign-language-letter-c.jpg"
 	],
 
