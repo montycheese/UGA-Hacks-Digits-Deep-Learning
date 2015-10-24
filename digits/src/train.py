@@ -1,26 +1,27 @@
 from clarifai_basic import ClarifaiCustomModel
 from json import dumps
+from classifications import language
 
 concept = ClarifaiCustomModel()
 
-#ENTER THE URL OF THE IMAGE BETWEEN THE QUOTATION MARKS
-# eg: url = "www.image.com/cat.jpg"
+#for url in language['applause']:
+#	concept.positive(url, "applause")
 
-#APPLAUSE
+for neg_url in language['letter_k']:
+	concept.negative(neg_url, "applause")
 
-from classifications import applause, a
-#REPLACE NELLY WITH what we want the neural net to predict when it sees images similar to the one in the url
-
-for url in applause:
-	concept.positive(url, "applause")
-
-#for url in a:
-#	concept.negative(url, "applause")
-
-concept.train('applause')
+concept.train("applause")
 
 #this assigns the result of whether or not the predict was successful 
-result = concept.predict(applause[0], 'applause')
+sum = 0.0
+for url in language['applause']:
+	result = concept.predict(url, 'applause')
+	sum += result['urls'][0]['score']
+	print dumps(result)
+
+#average confidence
+print "Average confidence: %.5f" % (sum / len(language['applause']))
 
 #output the prediction!
-print dumps(result)
+#print dumps(result)
+
