@@ -1,7 +1,7 @@
 from clarifai_basic import ClarifaiCustomModel
 from json import dumps
 from classifications import language
-
+import sys
 
 
 def predict(url):
@@ -20,7 +20,10 @@ def predict(url):
 		return None
 	else:
 		return (classification, max_confidence)
-		
-image_url = "http://imgur.com/18mJQcx.jpg"
+
+if(len(sys.argv) != 2):
+	print "Correct command:$python predict.py [url]"
+	exit(0)
+image_url = sys.argv[1] 
 
 print predict(image_url)
