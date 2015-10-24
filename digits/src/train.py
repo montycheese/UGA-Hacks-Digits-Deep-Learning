@@ -10,12 +10,13 @@ for model in language.keys():
 		concept.positive(url, model)
 		#print "training url:%s on model %s" % (url, model)
 	for key, value in language.iteritems():
-		if key!= model:
+		if key != model:
 			for neg_url in value:
-				#print "making url:%s from model: %s a negative case." %(neg_url, key)
-				concept.negative(url,model)
+				print neg_url
+				concept.negative(neg_url, model)
 	concept.train(model)
 
+#print "making url:%s from model: %s a negative case." %(neg_url, key)
 
 
 '''

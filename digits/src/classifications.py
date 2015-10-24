@@ -42,8 +42,8 @@ language = {
 	"http://www.lifeprint.com/asl101/signjpegs/d/d.jpg",
 	"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/D%40InForward.jpg/120px-D%40InForward.jpg",
 	"http://images2.pics4learning.com/catalog/d/thumbs/d_thumb.jpg",
-	"https://o.quizlet.com/i/VPSOFR_MjBK151lZAEQogg_m.jpg"
-
+	"https://o.quizlet.com/i/VPSOFR_MjBK151lZAEQogg_m.jpg",
+	"http://imgur.com/4zAsCti.jpg"
 	],
 	'letter_e' : [
 	"http://www.lifeprint.com/asl101/signjpegs/e/e.jpg",
@@ -61,7 +61,7 @@ language = {
 	],
 	'letter_g' : [
 	'http://www.lifeprint.com/asl101/signjpegs/g/g1.jpg',
-	'http://www.lifeprint.com/asl101/signjpegs/g/g2.jpg'
+	'http://www.lifeprint.com/asl101/signjpegs/g/g2.jpg',
 	'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/G%40TipForward.jpg/120px-G%40TipForward.jpg',
 	'http://images2.pics4learning.com/catalog/g/thumbs/g_thumb.jpg',
 	'https://o.quizlet.com/i/pfAOaqZTLFafqX8nTHlyrw_m.jpg'
@@ -211,8 +211,8 @@ language = {
 	],
 	
 	'letter_w' : [
-	'http://www.lifeprint.com/asl101/signjpegs/w/w.jpg'
-'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/6%40InForward.jpg/120px-6%40InForward.jpg'
+	'http://www.lifeprint.com/asl101/signjpegs/w/w.jpg',
+'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/6%40InForward.jpg/120px-6%40InForward.jpg',
 'http://images2.pics4learning.com/catalog/w/thumbs/w_thumb.jpg',
 'https://o.quizlet.com/i/j3n34mNoY_0fU3KEfF5AEA_m.jpg',
 'https://www.signingsavvy.com/images/words/alphabet/1/w1.jpg',

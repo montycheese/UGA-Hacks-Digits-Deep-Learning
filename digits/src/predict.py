@@ -9,9 +9,10 @@ def predict(url):
 	max_confidence = 0.0
 	classification = None
 	for word in language.keys():
-		print word
+		#print word
 		result = concept.predict(url, word)
 		confidence = result['urls'][0]['score']
+		print word, confidence
 		if confidence > max_confidence:
 			max_confidence = confidence
 			classification = word
@@ -20,6 +21,6 @@ def predict(url):
 	else:
 		return (classification, max_confidence)
 		
-image_url = ""
+image_url = "http://imgur.com/4zAsCti.jpg"
 
 print predict(image_url)
