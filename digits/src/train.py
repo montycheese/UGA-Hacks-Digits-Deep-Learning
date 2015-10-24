@@ -8,8 +8,9 @@ count = 0
 for model in language.keys():
 	print "current model to train: %s, %d/%d complete" % (model, count, len(language))
 	for url in language[model]:
-		concept.positive(url, model)
 		print "training url:%s on model %s" % (url, model)
+		concept.positive(url, model)
+		
 	for key, value in language.iteritems():
 		if key != model:
 			for neg_url in value:
