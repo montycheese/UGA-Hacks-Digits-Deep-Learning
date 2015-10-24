@@ -24,7 +24,8 @@ language = {
 'http://imgur.com/XBQ9nXx.jpg',
 'http://imgur.com/lqvt8f0.jpg',
 'http://i.imgur.com/Dw6FEFS.jpg',
-'http://i.imgur.com/F9s68Ks.jpg'
+'http://i.imgur.com/F9s68Ks.jpg',
+'http://i.imgur.com/AwhYJjn.jpg'
 	],
 
 	'letter_c' : [
@@ -33,7 +34,7 @@ language = {
 	'http://i233.photobucket.com/albums/ee159/lintpicker/30801_9184.jpg',
 	'http://imgur.com/d3YIDeM.jpg',
 	'http://www.lifeprint.com/asl101/signjpegs/c/c.jpg',
-	'http://imgur.com/ZKY6quh',
+	'http://imgur.com/ZKY6quh.jpg',
 	'http://imgur.com/5oaD2DA.jpg',
 	'http://i.imgur.com/Iin7dhC.jpg',
 	'http://i.imgur.com/4yHKhIg.jpg'
@@ -44,7 +45,7 @@ language = {
 	"http://images2.pics4learning.com/catalog/d/thumbs/d_thumb.jpg",
 									'http://users.manchester.edu/Student/SMCarmichael/MyWebpage/MPj03857270000[1]1.jpg',
 	'http://imgur.com/N8WTUo8.jpg',
-	'http://imgur.com/U1DTGet',
+	'http://imgur.com/U1DTGet.jpg',
 	'http://i.imgur.com/P6tw9wt.jpg',
 	'http://i.imgur.com/Ci4c5Dz.jpg'
 	],
@@ -74,8 +75,7 @@ language = {
 	'http://www.lifeprint.com/asl101/signjpegs/g/g1.jpg',
 	'http://www.lifeprint.com/asl101/signjpegs/g/g2.jpg',
 	'http://images2.pics4learning.com/catalog/g/thumbs/g_thumb.jpg',
-	'http://imgur.com/a/42l1z.jpg',
-	'http://imgur.com/wog08bz',
+	'http://imgur.com/wog08bz.jpg',
 	'http://i.imgur.com/xsPrfCk.jpg',
 	'http://i.imgur.com/RQJEDNa.jpg'
 	'http://i.imgur.com/9NfbVpb.jpg',
@@ -109,10 +109,6 @@ language = {
 	'http://i.imgur.com/lTM5vRg.jpg'
 
 	
-	],
-		'letter_j' : [
-	'http://images2.pics4learning.com/catalog/j/j.jpg'
-
 	],
 	'letter_k' : [
 	"http://www.lifeprint.com/asl101/signjpegs/k/k.jpg",
@@ -208,8 +204,9 @@ language = {
 	'letter_s': [
 	"http://www.lifeprint.com/asl101/signjpegs/s/s.jpg",
 'http://images2.pics4learning.com/catalog/s/thumbs/s_thumb.jpg',
-'http://imgur.com/a/42l1z.jpg',
-'http://i.imgur.com/rmf5jgR.jpg'
+'http://i.imgur.com/rmf5jgR.jpg',
+'http://i.imgur.com/P3Zq5Dd.jpg',
+'http://i.imgur.com/xClBmxV.jpg'
 	],
 	'letter_t' : [
 	'http://www.lifeprint.com/asl101/signjpegs/t/t.jpg',
@@ -238,7 +235,9 @@ language = {
 'http://i.imgur.com/69NrFjG.jpg',
 'http://i.imgur.com/GPyiPNv.jpg',
 'http://i.imgur.com/OkHpWff.jpg',
-'http://i.imgur.com/NX2G7JW.jpg'
+'http://i.imgur.com/NX2G7JW.jpg',
+'http://i.imgur.com/Su0ByBz.jpg',
+'http://i.imgur.com/rnO7sVH.jpg'
 	],
 	
 	'letter_w' : [
@@ -247,7 +246,8 @@ language = {
 'http://i.imgur.com/ep9SPS6.jpg',
 'http://i.imgur.com/kyhQ5D4.jpg',
 'http://i.imgur.com/mHGWgy4.jpg',
-'http://i.imgur.com/BQVK36B.jpg'
+'http://i.imgur.com/BQVK36B.jpg',
+'http://i.imgur.com/2lPUvlM.jpg'
 
 	],
 	'letter_x': [
@@ -267,7 +267,8 @@ language = {
 'http://i.imgur.com/lFCvuYs.jpg',
 'http://i.imgur.com/cqsOgCx.jpg',
 'http://i.imgur.com/BagarbG.jpg',
-'http://i.imgur.com/LVhlWhQ.jpg'
+'http://i.imgur.com/LVhlWhQ.jpg',
+'http://i.imgur.com/uKSmVuv.jpg'
 	],
 
 	'applause' : [		"http://www.churchleaders.com/wp-content/uploads/files/article_images/clap_or_not_937398406.jpg",
