@@ -4,17 +4,17 @@ from classifications import language
 
 concept = ClarifaiCustomModel()
 
-model = 'letter_k'
-
-for url in language[model]:
-	concept.positive(url, model)
-
-for key, value in language.iteritems():
-	if key!= model:
-		for url in value:
-			print url
-			concept.negative(url,model)
-concept.train(model)
+for model in language.keys():
+	print "current model to train: " + model
+	for url in language[model]:
+		concept.positive(url, model)
+		#print "training url:%s on model %s" % (url, model)
+	for key, value in language.iteritems():
+		if key!= model:
+			for neg_url in value:
+				#print "making url:%s from model: %s a negative case." %(neg_url, key)
+				concept.negative(url,model)
+	concept.train(model)
 
 
 
@@ -33,7 +33,7 @@ for neg_url in language['letter_k']:
 	concept.negative(neg_url, "letter_c")
 
 concept.train("letter_c")
-'''
+
 
 #this assigns the result of whether or not the predict was successful 
 sum = 0.0
@@ -47,4 +47,4 @@ print "Average confidence: %.5f" % (sum / len(language[model]))
 
 #output the prediction!
 #print dumps(result)
-
+'''

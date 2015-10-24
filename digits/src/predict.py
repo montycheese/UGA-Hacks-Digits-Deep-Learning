@@ -15,6 +15,11 @@ def predict(url):
 		if confidence > max_confidence:
 			max_confidence = confidence
 			classification = word
-	return (classification, max_confidence)
-	
-print predict(language['letter_b'][3])
+	if classification == None:
+		return None
+	else:
+		return (classification, max_confidence)
+		
+image_url = ""
+
+print predict(image_url)
