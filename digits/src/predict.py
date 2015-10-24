@@ -21,6 +21,6 @@ def predict(url):
 	else:
 		return (classification, max_confidence)
 		
-image_url = "http://imgur.com/4zAsCti.jpg"
+image_url = "http://imgur.com/18mJQcx.jpg"
 
 print predict(image_url)
