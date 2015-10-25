@@ -5,8 +5,9 @@ from classifications import language
 concept = ClarifaiCustomModel()
 
 
-image_url = "http://i.imgur.com/3iALY5y.jpg"
-model = "letter_b"
+image_url = 'http://i.imgur.com/m4yadmu.jpg'
+model = 'letter_o'
+
 concept.positive(image_url, model)
 concept.train(model)
 

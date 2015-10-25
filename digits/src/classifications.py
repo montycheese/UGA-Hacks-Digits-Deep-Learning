@@ -9,11 +9,12 @@ language = {
 	'http://imgur.com/dEzAAdf.jpg',
 	'http://imgur.com/Cq98daW.jpg',
 	"http://i.imgur.com/AmaKsIu.jpg",
-	'http://i.imgur.com/pcRSprF.jpg'
+	'http://i.imgur.com/pcRSprF.jpg',
+	'http://www.wtsd.tn.org/kylah_webpage/MPj03857240000[1].jpg'
 	],
 
 	'letter_b' : [
-	"https://s3.amazonaws.com/bankstreet_web/media/filer_public/filer_public/2013/03/04/asl_b.jpg",
+"https://s3.amazonaws.com/bankstreet_web/media/filer_public/filer_public/2013/03/04/asl_b.jpg",
 "http://i.imgur.com/pU4pXE8.jpg",
 'http://imgur.com/XBQ9nXx.jpg',
 'http://imgur.com/lqvt8f0.jpg',
@@ -21,7 +22,9 @@ language = {
 'http://i.imgur.com/F9s68Ks.jpg',
 'http://i.imgur.com/AwhYJjn.jpg',
 'http://i.imgur.com/cmkzC7d.jpg',
-'http://i.imgur.com/tiey392.jpg'
+'http://i.imgur.com/tiey392.jpg',
+'http://i.imgur.com/hzokTpL.jpg',
+'http://i.imgur.com/H7qw8j6.jpg'
 	],
 
 	'letter_c' : [
@@ -41,7 +44,8 @@ language = {
 	'http://i.imgur.com/eJqXUIz.jpg',
 'http://i.imgur.com/8OZTed3.jpg',
 'http://i.imgur.com/ECYY5Bs.jpg',
-'http://i.imgur.com/ocF6dCx.jpg'
+'http://i.imgur.com/ocF6dCx.jpg',
+'http://i.imgur.com/hlN3yuo.jpg'
 	],
 	'letter_e' : [
 	"http://www.lifeprint.com/asl101/signjpegs/e/e.jpg",
@@ -49,7 +53,9 @@ language = {
 	'http://i.imgur.com/vlTE1A2.jpg',
 	'http://i.imgur.com/vQwuSpI.jpg',
 	'http://i.imgur.com/N1RjYaJ.jpg',
-	'http://i.imgur.com/UhYgnPZ.jpg'
+	'http://i.imgur.com/UhYgnPZ.jpg',
+	'http://i.imgur.com/W9KZF9a.jpg',
+    'http://i.imgur.com/8pHNFRU.jpg'
 	],
 	
 	'letter_f' : [
@@ -69,7 +75,8 @@ language = {
 	'http://i.imgur.com/kbHEu7g.jpg',
 	'http://i.imgur.com/9czIPWz.jpg',
 'http://i.imgur.com/cU5dpYi.jpg',
-'http://i.imgur.com/JSucevc.jpg'	
+'http://i.imgur.com/JSucevc.jpg',
+'http://i.imgur.com/RoHiNH2.jpg'
 	],
 	'letter_h' : [
 	'http://www.lifeprint.com/asl101/signjpegs/h/h2.jpg',
@@ -77,7 +84,8 @@ language = {
 	'http://i.imgur.com/0Qyy0uM.jpg',
 	'http://i.imgur.com/sY47Gp3.jpg',
 'http://i.imgur.com/Etqotx7.jpg',
-'http://i.imgur.com/QGSkHdF.jpg'
+'http://i.imgur.com/QGSkHdF.jpg',
+'http://i.imgur.com/Ruunkyf.jpg'
 	],
 		'letter_i' : [
 	'http://www.lifeprint.com/asl101/signjpegs/j/i1.jpg',
@@ -89,7 +97,9 @@ language = {
 	'http://i.imgur.com/Nc3DR34.jpg',
 	'http://i.imgur.com/s7DeARK.jpg',
 	'http://i.imgur.com/U4Xf04c.jpg',
-	'http://i.imgur.com/AWFRgh1.jpg'
+	'http://i.imgur.com/AWFRgh1.jpg',
+	'http://users.manchester.edu/Student/SMCarmichael/MyWebpage/MPj03857320000[1].jpg',
+	'http://i.imgur.com/GZqD2DM.jpg'
 	],
 		'letter_l' : [
 	'http://i.imgur.com/Kk00yJi.jpg',
@@ -99,7 +109,9 @@ language = {
 'http://i.imgur.com/tqy78Tw.jpg',
 'http://i.imgur.com/HFcYyWC.jpg',
 'http://vignette1.wikia.nocookie.net/glee/images/5/53/L_to_Loser.jpg/revision/latest?cb=20100919121543',
-'http://i.imgur.com/Sy3MQh5.jpg'
+'http://i.imgur.com/Sy3MQh5.jpg',
+'http://i.imgur.com/GP6y7bJ.jpg',
+'http://i.imgur.com/W7sUkRo.jpg'
 	],
 			'letter_m' : [
 	'http://www.lifeprint.com/asl101/signjpegs/m/m2.jpg',
@@ -128,7 +140,8 @@ language = {
 'http://i.imgur.com/do3X45q.jpg',
 'http://i.imgur.com/kNEYY1M.jpg',
 'http://i.imgur.com/8IrR5L9.jpg',
-'http://i.imgur.com/CJ4tKYs.jpg'
+'http://i.imgur.com/CJ4tKYs.jpg',
+'http://i.imgur.com/m4yadmu.jpg'
 ],
 	'letter_q': [
 
@@ -138,7 +151,8 @@ language = {
 'http://i.imgur.com/kT5qkFL.jpg',
 'http://i.imgur.com/La5ytRV.jpg',
 'http://i.imgur.com/FLEGaaq.jpg',
-'http://i.imgur.com/W6gWT8a.jpg'
+'http://i.imgur.com/W6gWT8a.jpg',
+'http://i.imgur.com/M3sYVKJ.jpg'
 ],
 	'letter_r' : [
 'http://i.imgur.com/9wwRZDc.jpg',
@@ -147,7 +161,8 @@ language = {
 'http://i.imgur.com/T7kJULr.jpg',
 'http://i.imgur.com/MIZWPZI.jpg',
 'http://i.imgur.com/F4MkT8m.jpg',
-'http://i.imgur.com/N6Gx7vl.jpg'
+'http://i.imgur.com/N6Gx7vl.jpg',
+'http://www.wtsd.tn.org/kylah_webpage/MPj03857410000[1].jpg'
 	],
 	'letter_s': [
 'http://i.imgur.com/rmf5jgR.jpg',
@@ -210,7 +225,8 @@ language = {
 'http://i.imgur.com/5RrMIez.jpg',
 'http://i.imgur.com/6nhuW9v.jpg',
 'http://i.imgur.com/h1AumoX.jpg',
-'http://i.imgur.com/v74QoHw.jpg'
+'http://i.imgur.com/v74QoHw.jpg',
+'http://i.imgur.com/98h1OC2.jpg'
 	],
 
 	'applause' : [		"http://www.churchleaders.com/wp-content/uploads/files/article_images/clap_or_not_937398406.jpg",
